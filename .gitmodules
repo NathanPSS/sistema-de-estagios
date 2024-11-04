@@ -1,12 +1,17 @@
 [submodule "TCC-App-Preceptor"]
 	path = TCC-App-Preceptor
 	url = https://github.com/NathanPSS/TCC-App-Preceptor.git
+	branch = main
 [submodule "TCC-BackEnd"]
 	path = TCC-BackEnd
 	url = https://github.com/NathanPSS/TCC-BackEnd.git
+	branch = main
 [submodule "TCC-App-Estagiario"]
 	path = TCC-App-Estagiario
 	url = https://github.com/NathanPSS/TCC-App-Estagiario.git
+	branch = main
 [submodule "TCC-App-qrcodetoten"]
 	path = TCC-App-qrcodetoten
 	url = https://github.com/NathanPSS/TCC-App-qrcodetoten.git
+	branch = main
+
